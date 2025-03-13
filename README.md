@@ -60,19 +60,17 @@ streamlit run app.py
 │── 📜 README.md              # Project Documentation
 ```
 
----
-
-## 🎯 How It Works
-1️⃣ Select a disease from the dropdown menu.
-2️⃣ Input relevant health parameters.
-3️⃣ Click Predict and wait for the result.
-4️⃣ See whether the test is Positive or Negative.
-5️⃣ Visualize the distribution of input features.
-
----
 
  📸 Screenshots
- 🔹 Home Page
+ 🔹 Home Page 1
+![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage1.png?raw=true)
+
+ 📸 Screenshots
+ 🔹 Home Page 2
+![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage1.png?raw=true)
+
+ 📸 Screenshots
+ 🔹 Result
 ![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage1.png?raw=true)
 
 ---
