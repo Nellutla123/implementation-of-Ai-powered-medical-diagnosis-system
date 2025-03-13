@@ -13,7 +13,7 @@ This project is an **AI-powered medical diagnosis system** that predicts multipl
 
 The system is built using Logistic Regression and Support Vector Machine (SVM) and is deployed using Streamlit.
 
----
+
 
  📌 Features
 - 📊 Multiple Disease Prediction using trained models.
@@ -22,7 +22,7 @@ The system is built using Logistic Regression and Support Vector Machine (SVM) a
 - 🖼 Background Image for UI Enhancement.
 - ⏳ Loading Animation to enhance user experience.
 
----
+
 
 🏗 Tech Stack
 - Python 🐍
@@ -31,24 +31,21 @@ The system is built using Logistic Regression and Support Vector Machine (SVM) a
 - Matplotlib & Seaborn 📊
 - Pickle
 
----
 
  🔧 Installation & Usage
  1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/yourusername/AI-Medical-Diagnosis.git
 cd AI-Medical-Diagnosis
 ```
  2️⃣ Install dependencies
-```bash
+
 pip install -r requirements.txt
 ```
  3️⃣ Run the application
-```bash
-streamlit run app.py
-```
 
----
+streamlit run app.py
+
 
 📂 Project Structure
 ```
@@ -71,20 +68,20 @@ streamlit run app.py
 
  📸 Screenshots
  🔹 Result
-![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage1.png?raw=true)
+![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/result.png?raw=true)
 
----
+
 
  🤖 Machine Learning Models Used
 The following models were trained and saved for predictions:
-- **Heart Disease: Logistic Regression
-- **Parkinson's: SVM
-- **Lung Cancer: Logistic Regression
-- **Thyroid: SVM
+- Heart Disease: Logistic Regression
+- Parkinson's: SVM
+- Lung Cancer: Logistic Regression
+- Thyroid: SVM
 
 Each model was trained using feature engineering techniques and saved in `.sav` format for deployment.
 
----
+
 
  ✨ Future Improvements
 - ✅ Adding more diseases for prediction.
