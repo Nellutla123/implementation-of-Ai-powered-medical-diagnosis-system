@@ -73,7 +73,7 @@ streamlit run app.py
 
  📸 Screenshots
  🔹 Home Page
-![App UI](https://www.strategyand.pwc.com/m1/en/strategic-foresight/sector-strategies/healthcare/ai-powered-healthcare-solutions/img01-section1.jpg)
+![App UI](![Uploading homepage1.png…]())
 
 ---
 
