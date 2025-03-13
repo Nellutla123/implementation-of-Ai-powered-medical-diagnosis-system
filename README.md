@@ -73,7 +73,7 @@ streamlit run app.py
 
  📸 Screenshots
  🔹 Home Page
-![App UI](![Uploading homepage1.png…]())
+![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage1.png?raw=true)
 
 ---
 
