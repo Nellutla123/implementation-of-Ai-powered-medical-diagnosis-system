@@ -67,7 +67,7 @@ streamlit run app.py
 
  📸 Screenshots
  🔹 Home Page 2
-![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage1.png?raw=true)
+![App UI](https://github.com/Nellutla123/implementation-of-Ai-powered-medical-diagnosis-system/blob/main/homepage2.png?raw=true)
 
  📸 Screenshots
  🔹 Result
